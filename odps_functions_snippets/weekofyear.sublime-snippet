@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+weekofyear(datetime date)
+]]></content>
+    <tabTrigger>weekofyear</tabTrigger>
+    <scope>source.sql</scope>
+    <description>weekofyear</description>
+</snippet>

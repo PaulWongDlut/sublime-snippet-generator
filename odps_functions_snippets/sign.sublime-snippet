@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sign(decimal number)
+]]></content>
+    <tabTrigger>sign</tabTrigger>
+    <scope>source.sql</scope>
+    <description>sign</description>
+</snippet>

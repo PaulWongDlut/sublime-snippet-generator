@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+concat_ws(string sep, array<string>)
+]]></content>
+    <tabTrigger>concat_ws</tabTrigger>
+    <scope>source.sql</scope>
+    <description>concat_ws</description>
+</snippet>

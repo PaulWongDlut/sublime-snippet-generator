@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+regexp_count(string source, string pattern[, bigint start_position])
+]]></content>
+    <tabTrigger>regexp_count</tabTrigger>
+    <scope>source.sql</scope>
+    <description>regexp_count</description>
+</snippet>

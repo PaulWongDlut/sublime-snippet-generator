@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+datetrunc(datetime date, string datepart)
+]]></content>
+    <tabTrigger>datetrunc</tabTrigger>
+    <scope>source.sql</scope>
+    <description>datetrunc</description>
+</snippet>

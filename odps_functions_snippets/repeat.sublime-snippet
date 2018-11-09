@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+repeat(string str, bigint n)
+]]></content>
+    <tabTrigger>repeat</tabTrigger>
+    <scope>source.sql</scope>
+    <description>repeat</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+nth_value(expr, bigint n [, boolean skipnulls]) over(partition by col1[, col2…] order by col1 [asc|desc][, col2[asc|desc]…]])
+]]></content>
+    <tabTrigger>nth_value</tabTrigger>
+    <scope>source.sql</scope>
+    <description>nth_value</description>
+</snippet>

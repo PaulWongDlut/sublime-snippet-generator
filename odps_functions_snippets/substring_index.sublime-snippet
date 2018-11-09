@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+substring_index(string a, string sep, int count))
+]]></content>
+    <tabTrigger>substring_index</tabTrigger>
+    <scope>source.sql</scope>
+    <description>substring_index</description>
+</snippet>

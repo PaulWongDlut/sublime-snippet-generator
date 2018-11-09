@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+translate(string|varchar str1, string|varchar str2, string|varchar str3)
+]]></content>
+    <tabTrigger>translate</tabTrigger>
+    <scope>source.sql</scope>
+    <description>translate</description>
+</snippet>

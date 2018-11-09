@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+url_decode(string input[, string encoding])
+]]></content>
+    <tabTrigger>url_decode</tabTrigger>
+    <scope>source.sql</scope>
+    <description>url_decode</description>
+</snippet>

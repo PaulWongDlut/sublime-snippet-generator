@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+pow(decimal x, decimal y)
+]]></content>
+    <tabTrigger>pow</tabTrigger>
+    <scope>source.sql</scope>
+    <description>pow</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+first_value(expr) over(partition by col1[, col2…] order by col1 [asc|desc][, col2[asc|desc]…]])
+]]></content>
+    <tabTrigger>first_value</tabTrigger>
+    <scope>source.sql</scope>
+    <description>first_value</description>
+</snippet>

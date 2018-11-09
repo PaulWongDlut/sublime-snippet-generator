@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lengthb(string str)
+]]></content>
+    <tabTrigger>lengthb</tabTrigger>
+    <scope>source.sql</scope>
+    <description>lengthb</description>
+</snippet>

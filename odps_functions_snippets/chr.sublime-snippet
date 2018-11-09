@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chr(bigint ascii)
+]]></content>
+    <tabTrigger>chr</tabTrigger>
+    <scope>source.sql</scope>
+    <description>chr</description>
+</snippet>

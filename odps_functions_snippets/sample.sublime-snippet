@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sample(x, y, column_name1,column_name2,...)
+]]></content>
+    <tabTrigger>sample</tabTrigger>
+    <scope>source.sql</scope>
+    <description>sample</description>
+</snippet>

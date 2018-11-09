@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+log(decimal base, decimal x)
+]]></content>
+    <tabTrigger>log</tabTrigger>
+    <scope>source.sql</scope>
+    <description>log</description>
+</snippet>

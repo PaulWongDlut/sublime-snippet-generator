@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+replace(string a, string old, string new)
+]]></content>
+    <tabTrigger>replace</tabTrigger>
+    <scope>source.sql</scope>
+    <description>replace</description>
+</snippet>

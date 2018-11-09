@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+count([distinct] expr) over(partition by col1[, col2…] [order by col1 [asc|desc][, col2[asc|desc]…]] [windowing_clause])
+]]></content>
+    <tabTrigger>count</tabTrigger>
+    <scope>source.sql</scope>
+    <description>count</description>
+</snippet>

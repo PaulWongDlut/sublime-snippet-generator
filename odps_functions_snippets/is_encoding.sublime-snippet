@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+is_encoding(string str, string from_encoding, string to_encoding)
+]]></content>
+    <tabTrigger>is_encoding</tabTrigger>
+    <scope>source.sql</scope>
+    <description>is_encoding</description>
+</snippet>

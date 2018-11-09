@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+space(bigint n)
+]]></content>
+    <tabTrigger>space</tabTrigger>
+    <scope>source.sql</scope>
+    <description>space</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dayofmonth(date)
+]]></content>
+    <tabTrigger>dayofmonth</tabTrigger>
+    <scope>source.sql</scope>
+    <description>dayofmonth</description>
+</snippet>

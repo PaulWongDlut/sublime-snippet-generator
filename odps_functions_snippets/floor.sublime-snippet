@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+floor(double number)
+]]></content>
+    <tabTrigger>floor</tabTrigger>
+    <scope>source.sql</scope>
+    <description>floor</description>
+</snippet>

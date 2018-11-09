@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+day(string date)
+]]></content>
+    <tabTrigger>day</tabTrigger>
+    <scope>source.sql</scope>
+    <description>day</description>
+</snippet>

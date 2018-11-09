@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+inline(array<struct<f1:t1, f2:t2, ...>>)
+]]></content>
+    <tabTrigger>inline</tabTrigger>
+    <scope>source.sql</scope>
+    <description>inline</description>
+</snippet>

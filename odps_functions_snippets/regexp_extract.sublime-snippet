@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+regexp_extract(string source, string pattern[, bigint occurrence])
+]]></content>
+    <tabTrigger>regexp_extract</tabTrigger>
+    <scope>source.sql</scope>
+    <description>regexp_extract</description>
+</snippet>

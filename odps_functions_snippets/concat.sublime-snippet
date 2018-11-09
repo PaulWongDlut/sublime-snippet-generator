@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+concat(string a, string b...)
+]]></content>
+    <tabTrigger>concat</tabTrigger>
+    <scope>source.sql</scope>
+    <description>concat</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cbrt(double number)
+]]></content>
+    <tabTrigger>cbrt</tabTrigger>
+    <scope>source.sql</scope>
+    <description>cbrt</description>
+</snippet>

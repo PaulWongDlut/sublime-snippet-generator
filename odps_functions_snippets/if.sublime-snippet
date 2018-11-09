@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+if(testcondition, valuetrue, valuefalseornull)
+]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.sql</scope>
+    <description>if</description>
+</snippet>

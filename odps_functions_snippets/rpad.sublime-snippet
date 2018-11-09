@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rpad(string a, int len, string b)
+]]></content>
+    <tabTrigger>rpad</tabTrigger>
+    <scope>source.sql</scope>
+    <description>rpad</description>
+</snippet>

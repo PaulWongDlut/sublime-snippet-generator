@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+collect_list(col)
+]]></content>
+    <tabTrigger>collect_list</tabTrigger>
+    <scope>source.sql</scope>
+    <description>collect_list</description>
+</snippet>

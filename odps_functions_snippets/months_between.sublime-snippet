@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+months_between(datetime/timestamp/string date1, datetime/timestamp/string date2)
+]]></content>
+    <tabTrigger>months_between</tabTrigger>
+    <scope>source.sql</scope>
+    <description>months_between</description>
+</snippet>

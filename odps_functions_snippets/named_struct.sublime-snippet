@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+named_struct(string name1, t1 value1, string name2, t2 value2, ...)
+]]></content>
+    <tabTrigger>named_struct</tabTrigger>
+    <scope>source.sql</scope>
+    <description>named_struct</description>
+</snippet>

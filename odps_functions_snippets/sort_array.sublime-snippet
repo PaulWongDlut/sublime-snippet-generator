@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sort_array(array<t>)
+]]></content>
+    <tabTrigger>sort_array</tabTrigger>
+    <scope>source.sql</scope>
+    <description>sort_array</description>
+</snippet>

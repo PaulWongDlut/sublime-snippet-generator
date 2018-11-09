@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+size(map<k, v>)
+]]></content>
+    <tabTrigger>size</tabTrigger>
+    <scope>source.sql</scope>
+    <description>size</description>
+</snippet>

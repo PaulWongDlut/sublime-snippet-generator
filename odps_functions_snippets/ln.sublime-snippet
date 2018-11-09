@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ln(decimal number)
+]]></content>
+    <tabTrigger>ln</tabTrigger>
+    <scope>source.sql</scope>
+    <description>ln</description>
+</snippet>

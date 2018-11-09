@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rank() over(partition by col1[, col2…] order by col1 [asc|desc][, col2[asc|desc]…])
+]]></content>
+    <tabTrigger>rank</tabTrigger>
+    <scope>source.sql</scope>
+    <description>rank</description>
+</snippet>

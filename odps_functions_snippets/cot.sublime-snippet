@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cot(decimal number)
+]]></content>
+    <tabTrigger>cot</tabTrigger>
+    <scope>source.sql</scope>
+    <description>cot</description>
+</snippet>

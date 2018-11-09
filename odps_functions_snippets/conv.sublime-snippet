@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+conv(string input, bigint from_base, bigint to_base)
+]]></content>
+    <tabTrigger>conv</tabTrigger>
+    <scope>source.sql</scope>
+    <description>conv</description>
+</snippet>

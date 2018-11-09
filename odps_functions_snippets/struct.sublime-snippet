@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+struct(value1,value2, ...)
+]]></content>
+    <tabTrigger>struct</tabTrigger>
+    <scope>source.sql</scope>
+    <description>struct</description>
+</snippet>

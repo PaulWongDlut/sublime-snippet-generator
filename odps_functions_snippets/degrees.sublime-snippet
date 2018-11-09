@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+degrees(decimal number)
+]]></content>
+    <tabTrigger>degrees</tabTrigger>
+    <scope>source.sql</scope>
+    <description>degrees</description>
+</snippet>

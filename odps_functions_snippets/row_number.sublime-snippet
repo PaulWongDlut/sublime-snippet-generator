@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+row_number() over(partition by col1[, col2…]order by col1 [asc|desc][, col2[asc|desc]…])
+]]></content>
+    <tabTrigger>row_number</tabTrigger>
+    <scope>source.sql</scope>
+    <description>row_number</description>
+</snippet>

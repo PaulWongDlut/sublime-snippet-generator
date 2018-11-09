@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+e()
+]]></content>
+    <tabTrigger>e</tabTrigger>
+    <scope>source.sql</scope>
+    <description>e</description>
+</snippet>

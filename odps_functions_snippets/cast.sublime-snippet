@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cast(expr as <type>)
+]]></content>
+    <tabTrigger>cast</tabTrigger>
+    <scope>source.sql</scope>
+    <description>cast</description>
+</snippet>

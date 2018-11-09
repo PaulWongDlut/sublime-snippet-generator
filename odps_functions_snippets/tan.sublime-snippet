@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tan(decimal number)
+]]></content>
+    <tabTrigger>tan</tabTrigger>
+    <scope>source.sql</scope>
+    <description>tan</description>
+</snippet>

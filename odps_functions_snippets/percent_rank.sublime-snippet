@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+percent_rank() over(partition by col1[, col2…] order by col1 [asc|desc][, col2[asc|desc]…])
+]]></content>
+    <tabTrigger>percent_rank</tabTrigger>
+    <scope>source.sql</scope>
+    <description>percent_rank</description>
+</snippet>

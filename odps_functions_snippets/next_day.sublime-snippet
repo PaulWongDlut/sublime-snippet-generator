@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+next_day(string startdate, string week)
+]]></content>
+    <tabTrigger>next_day</tabTrigger>
+    <scope>source.sql</scope>
+    <description>next_day</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+toupper(string source)
+]]></content>
+    <tabTrigger>toupper</tabTrigger>
+    <scope>source.sql</scope>
+    <description>toupper</description>
+</snippet>

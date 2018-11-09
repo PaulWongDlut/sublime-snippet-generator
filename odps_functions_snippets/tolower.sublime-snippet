@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tolower(string source)
+]]></content>
+    <tabTrigger>tolower</tabTrigger>
+    <scope>source.sql</scope>
+    <description>tolower</description>
+</snippet>

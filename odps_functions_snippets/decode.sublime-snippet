@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+decode(expression, search, result[, search, result]...[, default])
+]]></content>
+    <tabTrigger>decode</tabTrigger>
+    <scope>source.sql</scope>
+    <description>decode</description>
+</snippet>

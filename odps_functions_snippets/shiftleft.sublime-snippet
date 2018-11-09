@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+shiftleft(bigint number1, int number2)
+]]></content>
+    <tabTrigger>shiftleft</tabTrigger>
+    <scope>source.sql</scope>
+    <description>shiftleft</description>
+</snippet>

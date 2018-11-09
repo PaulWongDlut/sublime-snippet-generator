@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+substr(string str, bigint start_position[, bigint length])
+]]></content>
+    <tabTrigger>substr</tabTrigger>
+    <scope>source.sql</scope>
+    <description>substr</description>
+</snippet>

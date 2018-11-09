@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rtrim(string str)
+]]></content>
+    <tabTrigger>rtrim</tabTrigger>
+    <scope>source.sql</scope>
+    <description>rtrim</description>
+</snippet>

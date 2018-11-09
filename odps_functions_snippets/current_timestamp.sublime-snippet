@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+current_timestamp()
+]]></content>
+    <tabTrigger>current_timestamp</tabTrigger>
+    <scope>source.sql</scope>
+    <description>current_timestamp</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+weekday(datetime date)
+]]></content>
+    <tabTrigger>weekday</tabTrigger>
+    <scope>source.sql</scope>
+    <description>weekday</description>
+</snippet>

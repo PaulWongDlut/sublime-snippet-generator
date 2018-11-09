@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+min([distinct] expr) over(partition by col1[, col2…] [order by col1 [asc|desc][, col2[asc|desc]…]] [windowing_clause])
+]]></content>
+    <tabTrigger>min</tabTrigger>
+    <scope>source.sql</scope>
+    <description>min</description>
+</snippet>

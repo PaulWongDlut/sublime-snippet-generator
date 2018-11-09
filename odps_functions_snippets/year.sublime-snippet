@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+year(string date)
+]]></content>
+    <tabTrigger>year</tabTrigger>
+    <scope>source.sql</scope>
+    <description>year</description>
+</snippet>

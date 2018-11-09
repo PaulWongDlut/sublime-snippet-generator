@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lag(expr，bigint offset, default) over(partition by col1[, col2…] [order by col1 [asc|desc][, col2[asc|desc]…]])
+]]></content>
+    <tabTrigger>lag</tabTrigger>
+    <scope>source.sql</scope>
+    <description>lag</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ceil(double value)
+]]></content>
+    <tabTrigger>ceil</tabTrigger>
+    <scope>source.sql</scope>
+    <description>ceil</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rand(bigint seed)
+]]></content>
+    <tabTrigger>rand</tabTrigger>
+    <scope>source.sql</scope>
+    <description>rand</description>
+</snippet>

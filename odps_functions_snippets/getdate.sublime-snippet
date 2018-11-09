@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+getdate()
+]]></content>
+    <tabTrigger>getdate</tabTrigger>
+    <scope>source.sql</scope>
+    <description>getdate</description>
+</snippet>

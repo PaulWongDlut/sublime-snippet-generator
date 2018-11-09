@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+radians(double number)
+]]></content>
+    <tabTrigger>radians</tabTrigger>
+    <scope>source.sql</scope>
+    <description>radians</description>
+</snippet>

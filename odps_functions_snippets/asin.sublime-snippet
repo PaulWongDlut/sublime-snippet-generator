@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+asin(double number)
+]]></content>
+    <tabTrigger>asin</tabTrigger>
+    <scope>source.sql</scope>
+    <description>asin</description>
+</snippet>

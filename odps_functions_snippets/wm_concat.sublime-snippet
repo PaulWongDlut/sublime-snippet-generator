@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+wm_concat(string separator, string str)
+]]></content>
+    <tabTrigger>wm_concat</tabTrigger>
+    <scope>source.sql</scope>
+    <description>wm_concat</description>
+</snippet>

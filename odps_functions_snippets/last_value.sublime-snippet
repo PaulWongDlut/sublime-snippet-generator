@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+last_value(expr) over(partition by col1[, col2…] order by col1 [asc|desc][, col2[asc|desc]…]])
+]]></content>
+    <tabTrigger>last_value</tabTrigger>
+    <scope>source.sql</scope>
+    <description>last_value</description>
+</snippet>

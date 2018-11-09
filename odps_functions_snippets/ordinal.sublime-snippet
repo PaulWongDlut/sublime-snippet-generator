@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ordinal(bigint nth, var1, var2, …)
+]]></content>
+    <tabTrigger>ordinal</tabTrigger>
+    <scope>source.sql</scope>
+    <description>ordinal</description>
+</snippet>

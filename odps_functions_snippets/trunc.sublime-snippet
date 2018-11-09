@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+trunc(decimal number[, bigint decimal_places])
+]]></content>
+    <tabTrigger>trunc</tabTrigger>
+    <scope>source.sql</scope>
+    <description>trunc</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+last_day(string date)
+]]></content>
+    <tabTrigger>last_day</tabTrigger>
+    <scope>source.sql</scope>
+    <description>last_day</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+regexp_replace(string source, string pattern, string replace_string[, bigint occurrence])
+]]></content>
+    <tabTrigger>regexp_replace</tabTrigger>
+    <scope>source.sql</scope>
+    <description>regexp_replace</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+to_date(string date, string format)
+]]></content>
+    <tabTrigger>to_date</tabTrigger>
+    <scope>source.sql</scope>
+    <description>to_date</description>
+</snippet>

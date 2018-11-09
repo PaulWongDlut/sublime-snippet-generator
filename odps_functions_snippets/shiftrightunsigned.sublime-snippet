@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+shiftrightunsigned(tinyint|smallint|int number1, int number2)
+]]></content>
+    <tabTrigger>shiftrightunsigned</tabTrigger>
+    <scope>source.sql</scope>
+    <description>shiftrightunsigned</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+from_unixtime(bigint unixtime)
+]]></content>
+    <tabTrigger>from_unixtime</tabTrigger>
+    <scope>source.sql</scope>
+    <description>from_unixtime</description>
+</snippet>

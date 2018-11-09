@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dense_rank() over(partition by col1[, col2…] order by col1 [asc|desc][, col2[asc|desc]…])
+]]></content>
+    <tabTrigger>dense_rank</tabTrigger>
+    <scope>source.sql</scope>
+    <description>dense_rank</description>
+</snippet>

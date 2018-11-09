@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+regexp_substr(string source, string pattern[, bigint start_position[, bigint nth_occurrence]])
+]]></content>
+    <tabTrigger>regexp_substr</tabTrigger>
+    <scope>source.sql</scope>
+    <description>regexp_substr</description>
+</snippet>

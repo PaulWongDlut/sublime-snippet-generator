@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+md5(string value)
+]]></content>
+    <tabTrigger>md5</tabTrigger>
+    <scope>source.sql</scope>
+    <description>md5</description>
+</snippet>

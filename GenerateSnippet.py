@@ -7,9 +7,9 @@ import re
 import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '.'))
 
-KEYWORD_FILE_PATH = "./Keywords"
-OUTPUT_DIR_PATH = "./snippet"
-SUFFIX = "matlab"
+KEYWORD_FILE_PATH = "./snippets_raw"
+OUTPUT_DIR_PATH = "./odps_functions_snippets"
+SUFFIX = "sql"
 
 SNIPPET_TEMPLATE = """\
 <snippet>
@@ -23,8 +23,8 @@ SNIPPET_TEMPLATE = """\
 """
 
 
-def get_snippet_tempate(word):
-    return SNIPPET_TEMPLATE % (word, word, SUFFIX, word)
+def get_snippet_tempate(trigger, content):
+    return SNIPPET_TEMPLATE % (content, trigger, SUFFIX, trigger)
 
 
 def get_word_list(path):
@@ -36,13 +36,15 @@ def get_word_list(path):
 
 
 def generate_snippet(word):
-    word = re.sub(' ', '', word)
-    file_name = word + '.sublime-snippet'
+    # word = re.sub(' ', '', word)
+    trigger = word.split(';')[0]
+    content = word.split(';')[1]
+    file_name = trigger + '.sublime-snippet'
     path = os.path.join(OUTPUT_DIR_PATH, file_name)
     with open(path, 'w') as fp:
-        fp.write(get_snippet_tempate(word))
+        fp.write(get_snippet_tempate(trigger, content))
 
-    print "%s is OK ..." % file_name
+    print("%s is OK ..." % file_name)
 
 
 if __name__ == '__main__':
@@ -54,4 +56,4 @@ if __name__ == '__main__':
     for word in get_word_list(KEYWORD_FILE_PATH):
         generate_snippet(word)
 
-    print "OK"
+    print("OK")

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cos(double number)
+]]></content>
+    <tabTrigger>cos</tabTrigger>
+    <scope>source.sql</scope>
+    <description>cos</description>
+</snippet>

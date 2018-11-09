@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+over(partition by col1[, col2..])
+]]></content>
+    <tabTrigger>over</tabTrigger>
+    <scope>source.sql</scope>
+    <description>over</description>
+</snippet>

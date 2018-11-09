@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+acos(double number)
+]]></content>
+    <tabTrigger>acos</tabTrigger>
+    <scope>source.sql</scope>
+    <description>acos</description>
+</snippet>

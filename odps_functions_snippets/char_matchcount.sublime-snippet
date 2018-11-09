@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+char_matchcount(string str1, string str2)
+]]></content>
+    <tabTrigger>char_matchcount</tabTrigger>
+    <scope>source.sql</scope>
+    <description>char_matchcount</description>
+</snippet>

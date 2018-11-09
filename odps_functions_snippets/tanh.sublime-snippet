@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tanh(double number)
+]]></content>
+    <tabTrigger>tanh</tabTrigger>
+    <scope>source.sql</scope>
+    <description>tanh</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+add_months(string startdate, int nummonths)
+]]></content>
+    <tabTrigger>add_months</tabTrigger>
+    <scope>source.sql</scope>
+    <description>add_months</description>
+</snippet>

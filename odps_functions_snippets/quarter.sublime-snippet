@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+quarter(datetime/timestamp/string date )
+]]></content>
+    <tabTrigger>quarter</tabTrigger>
+    <scope>source.sql</scope>
+    <description>quarter</description>
+</snippet>

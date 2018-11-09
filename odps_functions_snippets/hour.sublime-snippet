@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+hour(string date)
+]]></content>
+    <tabTrigger>hour</tabTrigger>
+    <scope>source.sql</scope>
+    <description>hour</description>
+</snippet>

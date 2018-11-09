@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ascii(string str)
+]]></content>
+    <tabTrigger>ascii</tabTrigger>
+    <scope>source.sql</scope>
+    <description>ascii</description>
+</snippet>

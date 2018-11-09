@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+round(double number, [bigint decimal_places])
+]]></content>
+    <tabTrigger>round</tabTrigger>
+    <scope>source.sql</scope>
+    <description>round</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+factorial(int number)
+]]></content>
+    <tabTrigger>factorial</tabTrigger>
+    <scope>source.sql</scope>
+    <description>factorial</description>
+</snippet>

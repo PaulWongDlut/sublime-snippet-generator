@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sin(decimal number)
+]]></content>
+    <tabTrigger>sin</tabTrigger>
+    <scope>source.sql</scope>
+    <description>sin</description>
+</snippet>

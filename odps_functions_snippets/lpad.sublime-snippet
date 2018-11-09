@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lpad(string a, int len, string b)
+]]></content>
+    <tabTrigger>lpad</tabTrigger>
+    <scope>source.sql</scope>
+    <description>lpad</description>
+</snippet>

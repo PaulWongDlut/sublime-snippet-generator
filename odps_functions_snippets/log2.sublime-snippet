@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+log2(double number)
+]]></content>
+    <tabTrigger>log2</tabTrigger>
+    <scope>source.sql</scope>
+    <description>log2</description>
+</snippet>

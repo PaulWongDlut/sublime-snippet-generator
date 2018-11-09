@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+month(string date)
+]]></content>
+    <tabTrigger>month</tabTrigger>
+    <scope>source.sql</scope>
+    <description>month</description>
+</snippet>

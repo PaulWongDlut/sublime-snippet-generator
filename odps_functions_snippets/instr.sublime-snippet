@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+instr(string str1, string str2[, bigint start_position[, bigint nth_appearance]])
+]]></content>
+    <tabTrigger>instr</tabTrigger>
+    <scope>source.sql</scope>
+    <description>instr</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+hex(binary number)
+]]></content>
+    <tabTrigger>hex</tabTrigger>
+    <scope>source.sql</scope>
+    <description>hex</description>
+</snippet>

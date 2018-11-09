@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array(value1,value2, ...)
+]]></content>
+    <tabTrigger>array</tabTrigger>
+    <scope>source.sql</scope>
+    <description>array</description>
+</snippet>

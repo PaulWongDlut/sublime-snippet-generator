@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dateadd(datetime date, bigint delta, string datepart)
+]]></content>
+    <tabTrigger>dateadd</tabTrigger>
+    <scope>source.sql</scope>
+    <description>dateadd</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+median(decimal number1,number2...) over(partition by col1[,col2…])
+]]></content>
+    <tabTrigger>median</tabTrigger>
+    <scope>source.sql</scope>
+    <description>median</description>
+</snippet>

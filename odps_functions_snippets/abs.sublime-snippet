@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+abs(decimal number)
+]]></content>
+    <tabTrigger>abs</tabTrigger>
+    <scope>source.sql</scope>
+    <description>abs</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sinh(decimal number)
+]]></content>
+    <tabTrigger>sinh</tabTrigger>
+    <scope>source.sql</scope>
+    <description>sinh</description>
+</snippet>

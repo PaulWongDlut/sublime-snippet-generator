@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+unix_timestamp(datetime date)
+]]></content>
+    <tabTrigger>unix_timestamp</tabTrigger>
+    <scope>source.sql</scope>
+    <description>unix_timestamp</description>
+</snippet>

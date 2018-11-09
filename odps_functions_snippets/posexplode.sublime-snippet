@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+posexplode(array<t>)
+]]></content>
+    <tabTrigger>posexplode</tabTrigger>
+    <scope>source.sql</scope>
+    <description>posexplode</description>
+</snippet>

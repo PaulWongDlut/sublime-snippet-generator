@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+split_part(string str, string separator, bigint start[, bigint end])
+]]></content>
+    <tabTrigger>split_part</tabTrigger>
+    <scope>source.sql</scope>
+    <description>split_part</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+to_char(bigint value)
+]]></content>
+    <tabTrigger>to_char</tabTrigger>
+    <scope>source.sql</scope>
+    <description>to_char</description>
+</snippet>

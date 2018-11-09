@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+map_values(map<k, v>)
+]]></content>
+    <tabTrigger>map_values</tabTrigger>
+    <scope>source.sql</scope>
+    <description>map_values</description>
+</snippet>

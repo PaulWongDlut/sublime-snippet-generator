@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bin(bigint number)
+]]></content>
+    <tabTrigger>bin</tabTrigger>
+    <scope>source.sql</scope>
+    <description>bin</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+soundex(string a)
+]]></content>
+    <tabTrigger>soundex</tabTrigger>
+    <scope>source.sql</scope>
+    <description>soundex</description>
+</snippet>

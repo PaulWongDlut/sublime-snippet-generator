@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cluster_sample(bigint x[, bigint y])
+]]></content>
+    <tabTrigger>cluster_sample</tabTrigger>
+    <scope>source.sql</scope>
+    <description>cluster_sample</description>
+</snippet>
